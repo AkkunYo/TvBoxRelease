@@ -9,7 +9,7 @@
       ],
       "versionCode": 21,
       "versionName": "20230605-1244",
-      "downloadUrl": "https://heim.zkyml.com:4443/zkyml/TvBox/raw/master/release/app-release.apk",
+      "downloadUrl": "https://github.com/AkkunYo/TvBoxRelease/raw/main/app-release.apk",
       "md5": null
     },
     "beta": {
@@ -23,7 +23,7 @@
       ],
       "versionCode": 20,
       "versionName": "1.2.0",
-      "downloadUrl": "https://heim.zkyml.com:4443/zkyml/TvBox/raw/master/release/app-release.apk",
+      "downloadUrl": "https://github.com/AkkunYo/TvBoxRelease/raw/main/app-release.apk",
       "md5": null
     }
   }
