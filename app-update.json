@@ -1,0 +1,30 @@
+{
+  "android": {
+    "stable": {
+      "date": "2023年6月5日13:55:31",
+      "mode": 1,
+      "log": [
+        "#加入升级模式、强制升级",
+        "#下载支持断点续传、分流下载"
+      ],
+      "versionCode": 21,
+      "versionName": "20230605-1244",
+      "downloadUrl": "https://heim.zkyml.com:4443/zkyml/TvBox/raw/master/release/app-release.apk",
+      "md5": null
+    },
+    "beta": {
+      "device": [
+        "JGB9K17928918126"
+      ],
+      "date": "2018-02-09",
+      "mode": 1,
+      "log": [
+        "#内侧版本"
+      ],
+      "versionCode": 20,
+      "versionName": "1.2.0",
+      "downloadUrl": "https://heim.zkyml.com:4443/zkyml/TvBox/raw/master/release/app-release.apk",
+      "md5": null
+    }
+  }
+}
